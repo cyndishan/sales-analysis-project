@@ -11,6 +11,7 @@ To provide a clear, data-driven view of store performance across multiple dimens
 
 ## 📁 File Included
 - `Sales_Analysis_2024_Stores_A_B.xlsx` – The interactive Excel dashboard with slicers and pivot charts.
+- Dataset sourced from bootcamp lab exercises.
 
 ## 📊 Dashboard Components
 The dashboard includes the following visualizations:
