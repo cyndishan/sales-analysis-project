@@ -103,8 +103,7 @@ To explore the dashboard:
 ## 💡 Future Improvements
 - Add year-over-year comparison if previous data becomes available.
 - Integrate external data (e.g., marketing campaigns, inventory).
-- Automate updates using Power Query or external data sources.
-- 
+- Automate updates using Power Query or external data sources. 
 
 ## 👤 Author
 **Cyndi Li Shan**  
