@@ -69,22 +69,23 @@ The dashboard includes the following visualizations:
 - Investigate customer preferences, pricing, and promotional strategy.
 - Improve inventory management and marketing for the Books category.
 
-### 2. ⚡ Leverage Top-Performing Categories
+### 2. 📚 Identify and address the sales dips observed in Store A during March, August, and November.
+- Review historical promotions, inventory levels, and staffing during these months.
+- Compare with competitor activity or local events that may have influenced customer behavior.
+- Launch special offers or discount campaigns specifically in March, August, and November to stimulate demand.
+  
+### 3. ⚡ Leverage Top-Performing Categories
 - Expand electronics offerings in both stores.
 - Promote best-selling products more aggressively through targeted marketing.
 - Explore cross-selling opportunities between electronics and other categories.
 
-### 3. 🧠 Align Sales & Profit Strategies
+### 4. 🧠 Align Sales & Profit Strategies
 - Optimize pricing and discount strategies to boost profits without hurting sales.
 - Identify high-margin items to promote during low-performing months.
 
-### 4. 🚀 Share and Scale Best Practices
+### 5. 🚀 Share and Scale Best Practices
 - Analyze what contributes to Store A’s consistent performance.
 - Apply successful sales and operations strategies from Store A to Store B.
-
-### 5. 📆 Optimize for Seasonal Dips
-- Develop campaigns or offers for March, August, and November to improve Store A’s performance.
-- Consider product launches, promotions, or loyalty rewards during these months.
 
 
 ## 📌 Next Steps
