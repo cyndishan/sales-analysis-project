@@ -54,6 +54,44 @@ The dashboard includes the following visualizations:
 ![image](https://github.com/user-attachments/assets/8ad6a567-1d0c-452e-abb5-13825af407ec)
 
 
+## 🔍 Key Findings
+
+- **Store A outperforms Store B** in both **sales and profits** throughout the year, **except in March, August, and November**.
+- **Electronics** are the **top-selling category in Store A**, while **Books** lead in Store B.
+- **Sales and profit trends are consistent** within each store and across most product categories.
+- **Store A outperforms Store B in all product categories except Books**.
+
+
+## ✅ Actionable Recommendations
+
+### 1. 📚 Address Underperformance in Books (Store A)
+- Investigate customer preferences, pricing, and promotional strategy.
+- Improve inventory management and marketing for the Books category.
+
+### 2. ⚡ Leverage Top-Performing Categories
+- Expand electronics offerings in both stores.
+- Promote best-selling products more aggressively through targeted marketing.
+- Explore cross-selling opportunities between electronics and other categories.
+
+### 3. 🧠 Align Sales & Profit Strategies
+- Optimize pricing and discount strategies to boost profits without hurting sales.
+- Identify high-margin items to promote during low-performing months.
+
+### 4. 🚀 Share and Scale Best Practices
+- Analyze what contributes to Store A’s consistent performance.
+- Apply successful sales and operations strategies from Store A to Store B.
+
+### 5. 📆 Optimize for Seasonal Dips
+- Develop campaigns or offers for March, August, and November to improve Store A’s performance.
+- Consider product launches, promotions, or loyalty rewards during these months.
+
+
+## 📌 Next Steps
+
+- Conduct a deeper dive into customer behavior by category and region.
+- Set KPIs to monitor the impact of implemented strategies.
+- Re-evaluate performance after 3 months of applying changes.
+
 ## 🚀 Getting Started
 To explore the dashboard:
 1. Download and open the Excel file.
@@ -64,6 +102,7 @@ To explore the dashboard:
 - Add year-over-year comparison if previous data becomes available.
 - Integrate external data (e.g., marketing campaigns, inventory).
 - Automate updates using Power Query or external data sources.
+- 
 
 ## 👤 Author
 **Cyndi Li Shan**  
