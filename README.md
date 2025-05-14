@@ -69,7 +69,7 @@ The dashboard includes the following visualizations:
 - Investigate customer preferences, pricing, and promotional strategy.
 - Improve inventory management and marketing for the Books category.
 
-### 2. 📚 Identify and address the sales dips observed in Store A during March, August, and November.
+### 2. 🔍 Identify and address the sales dips observed in Store A during March, August, and November
 - Review historical promotions, inventory levels, and staffing during these months.
 - Compare with competitor activity or local events that may have influenced customer behavior.
 - Launch special offers or discount campaigns specifically in March, August, and November to stimulate demand.
