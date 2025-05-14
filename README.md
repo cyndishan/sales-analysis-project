@@ -50,6 +50,10 @@ The dashboard includes the following visualizations:
 - Understand **which product categories drive revenue and profit** for each location.
 - Use slicers to dynamically filter and interact with data for **targeted analysis**.
 
+## Excel Dashboard Preview
+![image](https://github.com/user-attachments/assets/8ad6a567-1d0c-452e-abb5-13825af407ec)
+
+
 ## 🚀 Getting Started
 To explore the dashboard:
 1. Download and open the Excel file.
